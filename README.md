@@ -1,1 +1,2 @@
-Hello, this is c++ repos ro demonstrate array and fun
+Hello, this is c++ repos ro demonstrate array and functions
+
