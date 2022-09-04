@@ -1,2 +1,2 @@
-Hello, this is c++ repos ro demonstrate array and functions
+Hello, this is c++ repos to demonstrate file handling, array and functions
 
